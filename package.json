@@ -1,0 +1,11 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "react practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Vraj Kathiriya",
+  "license": "ISC"
+}
